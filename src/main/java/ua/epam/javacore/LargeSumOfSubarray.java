@@ -1,5 +1,6 @@
+package ua.epam.javacore;
 
-public class Task1 {
+public class LargeSumOfSubarray {
 
     public int[] findContSubarray(int[] arr, int n) {
         int sum = 0;

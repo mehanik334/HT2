@@ -1,4 +1,6 @@
-public class Task3 {
+package ua.epam.javacore;
+
+public class ArrayOfTwoIndex {
 
     public int[] findIndexes(int[] arr, int target) {
         int[] arrIndex = new int[2];

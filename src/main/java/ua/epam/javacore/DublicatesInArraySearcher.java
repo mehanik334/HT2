@@ -1,6 +1,6 @@
-import java.util.Arrays;
+package ua.epam.javacore;
 
-public class Task5 {
+public class DublicatesInArraySearcher {
 
 
     public boolean findDublicateInArray(int[] arr) {

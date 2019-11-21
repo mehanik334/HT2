@@ -1,6 +1,8 @@
+package ua.epam.javacore;
+
 import java.util.Arrays;
 
-public class Task4 {
+public class ReturnArrRepIntegerPlusOne {
 
 
     public int[] arrPlusOne(int[] arr) {
